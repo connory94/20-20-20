@@ -29,6 +29,13 @@ canvas.create_text(73.9, 180, text="20", fill="#BD3B3B", font="Times 12 bold")
 canvas.create_text(73, 200, text="20", fill="#395C78", font="Times 12 bold")
 
 #sounds
+    # This is the part that causes the most issues.
+    # in vscodium it'll work but it gives me playsound error 200 + (something I forget) as an .exe
+    # the sound files live in a folder called "20-20-20," but if I do "playsound('20-20-20/elevator.wav') it gives me this error:
+    # https://cdn.discordapp.com/attachments/717032972376866828/1128415423004688506/image.png
+    # dad downgraded playsound to version 1.2.2 and it worked when converted to .exe
+    # I tried doing this, but I couldn't get it to work on my end.
+
 def alarmSound():
     playsound('elevator.wav')
 def testSound():
