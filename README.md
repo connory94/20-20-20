@@ -1,6 +1,10 @@
-there's a rule that you should follow to preserve your eyesight
-looking at screens for too long strains your eyes
-this may keep your eyesight good for longer
+apparently there's this rule that helps to prevent eye strain
+eye strain sucks balls so I'd suggest using this or some other kind of timer
+this just aims to make reminding yourself more convenient
+
+every 20 minutes
+look at something 20 feet away
+for 20 seconds
 
 I'm gonna include the .py file if anyone wants to get this working on linux/mac. 
 had to mess around with a bunch of stuff to get the sound to play and at this point I'm still not sure how it works.
