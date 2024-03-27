@@ -1,7 +1,6 @@
 HOW TO GET STARTED
 ======================
-- tldr: just download the zip, then extract the zip within the zip (idk why I did this), then put the extracted folder wherever you want. 
-- I highly recommend making a shortcut to the .exe file since it's one of those things where it needs to be in its folder to work.
+- tldr: just download the zip, then extract the zip within the zip (idk why I did this), then put the extracted folder wherever you want. I highly recommend making a shortcut to the .exe file since it's one of those things where it needs to be in its folder to work.
 
 
 
