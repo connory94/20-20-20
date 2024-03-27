@@ -3,6 +3,9 @@ HOW TO GET STARTED
 - tldr: just download the zip, then extract the zip within the zip (idk why I did this), then put the extracted folder wherever you want. 
 - I highly recommend making a shortcut to the .exe file since it's one of those things where it needs to be in its folder to work.
 
+
+
+-------------------------------------------------------------------------------------------------------------------
 - ![image](https://github.com/connory94/20-20-20/assets/138651184/39d3070f-55a7-499a-ac81-f814674c09c4)
 - ![image](https://github.com/connory94/20-20-20/assets/138651184/80ff27b1-8e14-4f3e-aeb4-0c9324a2e698)
   
