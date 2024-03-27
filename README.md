@@ -27,14 +27,12 @@ file is located where the rest of your downloads are
 ![image](https://github.com/connory94/20-20-20/assets/138651184/dac8c53f-9a06-489f-9754-2919c041f6e4)
  - ![image](https://github.com/connory94/20-20-20/assets/138651184/1c830978-b726-4d6e-ab2a-fc53b77021cf)
 
-
-STRONGLY RECOMMENDED
 ![image](https://github.com/connory94/20-20-20/assets/138651184/63d4dcb1-ab9b-4892-a435-c5f0bb7a2ad8)
+STRONGLY RECOMMENDED
  - ![image](https://github.com/connory94/20-20-20/assets/138651184/0d55f9b7-5161-47de-a6d6-5db9b2aaa2b0)
 
-move the shortcut to an easily accessible place, such as the desktop
 ![image](https://github.com/connory94/20-20-20/assets/138651184/9ccf0dbb-f9f1-4e58-8bb4-22881d6db4c7)
-
+move the shortcut to an easily accessible place, such as the desktop
 
 HOW TO USE
 ======================
