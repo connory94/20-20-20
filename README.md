@@ -39,7 +39,7 @@ HOW TO USE
 - press the button in the middle to start the timer
 - after 20 minutes, a sound will play until you press the button again. doing so will start a 20 second timer
 - look at something 20 feet away or further until you hear the noise again. when this happens, the 20 minute timer will automatically start again
-![image](https://github.com/connory94/20-20-20/assets/138651184/e01d0bdf-77cf-4bb0-b49f-2727f74573b0)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/e01d0bdf-77cf-4bb0-b49f-2727f74573b0)
 
 
 ABOUT
