@@ -2,19 +2,19 @@ HOW TO GET STARTED
 ======================
 tldr: just download the zip, then extract the zip within the zip (idk why I did this). put the extracted folder wherever you want. I highly recommend making a shortcut to the .exe file since it's one of those things where it needs to be in its folder to work.
 
-![image](https://github.com/connory94/20-20-20/assets/138651184/39d3070f-55a7-499a-ac81-f814674c09c4)
-![image](https://github.com/connory94/20-20-20/assets/138651184/20a8a688-be42-4123-bf03-3598bb080414)
-file is located where the rest of your downloads are
-![image](https://github.com/connory94/20-20-20/assets/138651184/b88d3c0f-cf62-4d13-b719-0ceb74b7987f)
-![image](https://github.com/connory94/20-20-20/assets/138651184/f398b25d-5ad9-4808-852f-ef0083ac63fa)
-![image](https://github.com/connory94/20-20-20/assets/138651184/44b374c9-cdf3-4d48-ada5-7b180bbe4f22)
-![image](https://github.com/connory94/20-20-20/assets/138651184/417ed24a-5f85-4acb-b1d9-bc91e808c6dd)
-![image](https://github.com/connory94/20-20-20/assets/138651184/dac8c53f-9a06-489f-9754-2919c041f6e4)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/39d3070f-55a7-499a-ac81-f814674c09c4)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/20a8a688-be42-4123-bf03-3598bb080414)
+- file is located where the rest of your downloads are
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/b88d3c0f-cf62-4d13-b719-0ceb74b7987f)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/f398b25d-5ad9-4808-852f-ef0083ac63fa)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/44b374c9-cdf3-4d48-ada5-7b180bbe4f22)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/417ed24a-5f85-4acb-b1d9-bc91e808c6dd)
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/dac8c53f-9a06-489f-9754-2919c041f6e4)
 
-STRONGLY RECOMMENDED
-![image](https://github.com/connory94/20-20-20/assets/138651184/63d4dcb1-ab9b-4892-a435-c5f0bb7a2ad8)
-move the shortcut to an easily accessible place, such as the desktop
-![image](https://github.com/connory94/20-20-20/assets/138651184/9ccf0dbb-f9f1-4e58-8bb4-22881d6db4c7)
+- STRONGLY RECOMMENDED
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/63d4dcb1-ab9b-4892-a435-c5f0bb7a2ad8)
+- move the shortcut to an easily accessible place, such as the desktop
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/9ccf0dbb-f9f1-4e58-8bb4-22881d6db4c7)
 
 
 HOW TO USE
