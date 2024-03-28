@@ -67,12 +67,8 @@ Dad
 
 -------------------------------------------------------------------------------------------------------------------
 
-I'm including the .py file in case wants to get this working on linux/mac. 
-I plan to do this eventually myself, but if anyone attempts to do this for me lmk!!
-
 a problem I ran into when converting this to .exe was that the sounds wouldn't play for some reason.
-it worked just fine whenever I pressed "run" on VSCodium
+it worked just fine whenever I ran it from the IDE
 I'm guessing the issue has to do with the version of playsound that was installed before converting?
 I say this because Dad got this to work by downgrading playsound on his computer.
 He also used a different IDE. doubt that has anything to do with it, but who knows?
-I'm not asking stackoverflow for help for very obvious reasons
