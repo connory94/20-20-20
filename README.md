@@ -57,11 +57,11 @@ CREDITS
 
 Hydroiodic/Randomfireisbad
    - helped with converting to .exe
-        - suffered with me through the early hours trying to figure out why it didn't work
+        - helped me troubleshoot
 
 Dad
    - helped with converting to .exe
-         - it worked on his computer and I haven't got the slightest clue as to why
+         - figured out the solution that we eventually used
 
 
 
