@@ -61,14 +61,3 @@ Hydroiodic/Randomfireisbad
 
 Dad
    - helped with converting to .exe
-         - figured out the solution that we eventually used
-
-
-
--------------------------------------------------------------------------------------------------------------------
-
-a problem I ran into when converting this to .exe was that the sounds wouldn't play for some reason.
-it worked just fine whenever I ran it from the IDE
-I'm guessing the issue has to do with the version of playsound that was installed before converting?
-I say this because Dad got this to work by downgrading playsound on his computer.
-He also used a different IDE. doubt that has anything to do with it, but who knows?
