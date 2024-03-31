@@ -5,6 +5,8 @@ HOW TO GET STARTED
 - note: only works on windows for now. might add mac & linux support later
 
 -------------------------------------------------------------------------------------------------------------------
+- a step by step guide on how to download this program
+
 ![image](https://github.com/connory94/20-20-20/assets/138651184/39d3070f-55a7-499a-ac81-f814674c09c4)
  - ![image](https://github.com/connory94/20-20-20/assets/138651184/80ff27b1-8e14-4f3e-aeb4-0c9324a2e698)
   
@@ -34,14 +36,6 @@ STRONGLY RECOMMENDED
 ![image](https://github.com/connory94/20-20-20/assets/138651184/9ccf0dbb-f9f1-4e58-8bb4-22881d6db4c7)
 move the shortcut to an easily accessible place, such as the desktop
 
-HOW TO USE
-======================
-- press the button in the middle to start the timer
-- after 20 minutes, a sound will play until you press the button again. doing so will start a 20 second timer
-- look at something 20 feet away or further until you hear the noise again. when this happens, the 20 minute timer will automatically start again
-- ![image](https://github.com/connory94/20-20-20/assets/138651184/e01d0bdf-77cf-4bb0-b49f-2727f74573b0)
-
-
 ABOUT
 ======================
 there's this rule you can follow to reduce/prevent eye strain when looking at screens for long periods of time:
@@ -50,6 +44,13 @@ there's this rule you can follow to reduce/prevent eye strain when looking at sc
 - for 20 seconds
 
 this program serves as a timer that serves as a reminder to take breaks every so often
+
+HOW TO USE
+======================
+- press the button in the middle to start the timer
+- after 20 minutes, a sound will play until you press the button again. doing so will start a 20 second timer
+- look at something 20 feet away or further until you hear the noise again. when this happens, the 20 minute timer will automatically start again
+- ![image](https://github.com/connory94/20-20-20/assets/138651184/e01d0bdf-77cf-4bb0-b49f-2727f74573b0)
 
 
 CREDITS
