@@ -5,7 +5,7 @@ HOW TO GET STARTED
 - note: only works on windows for now. might add mac & linux support later
 
 -------------------------------------------------------------------------------------------------------------------
-- a step by step guide on how to download this program
+- a step by step guide on how to download this program:
 
 ![image](https://github.com/connory94/20-20-20/assets/138651184/39d3070f-55a7-499a-ac81-f814674c09c4)
  - ![image](https://github.com/connory94/20-20-20/assets/138651184/80ff27b1-8e14-4f3e-aeb4-0c9324a2e698)
