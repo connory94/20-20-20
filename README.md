@@ -59,7 +59,7 @@ CREDITS
 
 Hydroiodic/Randomfireisbad
    - helped with converting to .exe
-        - helped me troubleshoot
+        - helped troubleshoot
 
 Dad
    - helped with converting to .exe
